@@ -1,0 +1,5 @@
+# Standalone Backend .gitignore
+node_modules/
+.env
+.data/
+.DS_Store
