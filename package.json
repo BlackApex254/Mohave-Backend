@@ -1,0 +1,21 @@
+{
+  "name": "mohave-backend",
+  "version": "1.0.0",
+  "description": "Standalone backend service for Hearthstone Lending (Auth, OTP, Loan Pipeline, Underwriting, KYC Validation, Bank Config, Outbox)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "lending",
+    "mortgage",
+    "underwriting",
+    "auth",
+    "otp",
+    "kyc",
+    "backend"
+  ],
+  "author": "Hearthstone Lending",
+  "license": "ISC"
+}
